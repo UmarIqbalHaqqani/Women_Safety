@@ -1,0 +1,131 @@
+
+---Downloaded files---
+The import files for: Panthar were successfully downloaded!
+Initial max execution time = 360
+Files info:
+Site URL = https://womensafety.swiggy.fun
+Data file = /home/u116616108/domains/swiggy.fun/public_html/womensafety/wp-content/plugins/panthar-core/demo-import/demo-data/content.xml
+Widget file = /home/u116616108/domains/swiggy.fun/public_html/womensafety/wp-content/plugins/panthar-core/demo-import/demo-data/widgets.wie
+Customizer file = /home/u116616108/domains/swiggy.fun/public_html/womensafety/wp-content/plugins/panthar-core/demo-import/demo-data/customize.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "Artboard – 1" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+sidebar-1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Panthar Post Search - Search - Imported to Inactive
+Panthar: Recent Posts with Thumbnails - Recent Posts - Imported to Inactive
+Panthar:  Category - Category - Imported to Inactive
+Panthar: Tags - Tags - Imported to Inactive
+
+service-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Panthar: Recent Posts with Thumbnails - No Title - Imported to Inactive
+Panthar: Service Document - No Title - Imported to Inactive
+Panthar: Request Form - No Title - Imported to Inactive
+
+case-study-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Panthar Post Search - Search - Imported to Inactive
+Panthar: Recent Posts with Thumbnails - Recent Cases - Imported to Inactive
+Panthar:  Category - Category - Imported to Inactive
+Panthar: Tags - Tags - Imported to Inactive
+
+footer-widget : Sidebar does not exist in theme (moving widget to Inactive)
+
+Panthar: About Me - No Title - Imported to Inactive
+Navigation Menu - Our Company - Imported to Inactive
+Navigation Menu - Help - Imported to Inactive
+Navigation Menu - Case Study - Imported to Inactive
+
+footer-widget-two : Sidebar does not exist in theme (moving widget to Inactive)
+
+Panthar: About Us - No Title - Imported to Inactive
+Navigation Menu - our Company - Imported to Inactive
+Navigation Menu - Support - Imported to Inactive
+Panthar: Request Form - No Title - Imported to Inactive
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---ocdi/after_import---
+

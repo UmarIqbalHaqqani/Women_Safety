@@ -1,0 +1,71 @@
+
+---Downloaded files---
+The import files for: Bigtech were successfully downloaded!
+Initial max execution time = 360
+Files info:
+Site URL = https://womensafety.swiggy.fun
+Data file = /home/u116616108/domains/swiggy.fun/public_html/womensafety/wp-content/themes/bigtech/sample-data/contents-demo.xml
+Widget file = /home/u116616108/domains/swiggy.fun/public_html/womensafety/wp-content/themes/bigtech/sample-data/widget-settings.json
+Customizer file = /home/u116616108/domains/swiggy.fun/public_html/womensafety/wp-content/themes/bigtech/sample-data/customizer-data.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - Search Here - Imported
+Categories - Categories - Imported
+Bigtech Sidebar Posts Image - Most Popular - Imported
+Tag Cloud - Tag Cloud - Imported
+
+Footer widget no. 1 : 
+
+Custom HTML - No Title - Imported
+
+Footer widget no. 2 : 
+
+Navigation Menu - Useful Links - Imported
+
+Footer widget no. 3 : 
+
+Navigation Menu - Community - Imported
+
+Footer widget no. 4 : 
+
+Custom HTML - Subscribe Newsletter - Imported
+
+footer-2-1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Custom HTML - No Title - Imported to Inactive
+
+footer-2-2 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - Useful Links - Imported to Inactive
+
+footer-2-3 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - Community - Imported to Inactive
+
+footer-2-4 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Custom HTML - Subscribe Newsletter - Imported to Inactive
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
